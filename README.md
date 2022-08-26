@@ -1,6 +1,6 @@
-# Voiceover Bot
+# T2S Voiceover Bot
 
-[Voiceover Bot](https://shahbaz4595.github.io/text2speech/) is a text to speech bot that speaks out the text entered by the user.
+[T2S Voiceover Bot](https://shahbaz4595.github.io/text2speech/) is a text to speech bot that speaks out the text entered by the user.
 This bot can be used to record voiceovers in different accents and the rate and pitch of the speech can be configured by the user.
 
 Live Link: https://shahbaz4595.github.io/text2speech/
