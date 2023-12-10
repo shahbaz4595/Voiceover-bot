@@ -8,5 +8,3 @@ Live Link: https://voiceoverbotbyshahbaz.netlify.app/
 <img width="948" alt="image" src="https://user-images.githubusercontent.com/52371453/186915210-a2c252cb-cf34-42b6-a1d1-3b979a0d2891.png">
 
 
-## Support:
-<p><a href="https://www.buymeacoffee.com/shahbazkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shahbazkhan" /></a></p><br><br>
